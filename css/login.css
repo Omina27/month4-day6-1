@@ -1,0 +1,34 @@
+body {
+    background-color: #EDD2F3;
+}
+
+
+.submit {
+    background-color: #84DFFF;
+    color: #FFF;
+}
+
+.heading {
+    color: FFFCDC;
+}
+
+.list {
+    margin-left: 370px;
+ 
+}
+
+.input {
+    width: 600px;
+    
+}
+
+.account {
+    margin-left: 370px;
+}
+
+#result {
+    width: 170px;
+    height: 43px;
+ 
+    margin-left: 10px;
+}
